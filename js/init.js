@@ -14,7 +14,7 @@
 			header: {
 				fullScreen: true,
 				fadeIn: true,
-				fadeDelay: 500
+				fadeDelay: 400
 			},
 
 		// Carousels
