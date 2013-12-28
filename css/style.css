@@ -1227,19 +1227,18 @@
 	{
 		background: rgba(255,255,255,0.975);
 		padding: 1em 1.25em 1em 1.25em;
-		line-height: 1em;
-		max-height: 50px;
-		text-align: left;
+	width:250px;
+	padding: 0px 15px;
 		border-radius: 0.5em;
 		box-shadow: 0 0.15em 0.25em 0 rgba(0,0,0,0.25);
-		width:250px; 
+		 
 	}
 	
 		.dropotron li
 		{
-			border-top: solid 1px rgba(128,128,128,0.2);
-			color: #5b5b5b;
-		float: left;width: 110px;background: none !important;}
+			float: left;width: 110px;background: none !important;
+			color: #5b5b5b;}
+		
 		
 			.dropotron li:first-child
 			{
@@ -1254,15 +1253,7 @@
 			.dropotron li a,
 			.dropotron li span
 			{
-				display: none;
-				border: 0;
-				padding: 0.5em 0 0.5em 0;
-				-moz-transition: color 0.35s ease-in-out;
-				-webkit-transition: color 0.35s ease-in-out;
-				-o-transition: color 0.35s ease-in-out;
-				-ms-transition: color 0.35s ease-in-out;
-				transition: color 0.35s ease-in-out;
-				padding:3px 0px !important;float:left
+		padding:3px 0px !important;float:left;
 			}
 		
 		.dropotron.level-0
