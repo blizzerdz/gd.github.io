@@ -1232,14 +1232,14 @@
 		text-align: left;
 		border-radius: 0.5em;
 		box-shadow: 0 0.15em 0.25em 0 rgba(0,0,0,0.25);
-		min-width: 22em;
+		width:250px;padding: 
 	}
 	
 		.dropotron li
 		{
 			border-top: solid 1px rgba(128,128,128,0.2);
 			color: #5b5b5b;
-		}
+		float: left;width: 110px;background: none !important;}
 		
 			.dropotron li:first-child
 			{
@@ -1262,6 +1262,7 @@
 				-o-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
 				transition: color 0.35s ease-in-out;
+				padding:3px 0px !important;float:left
 			}
 		
 		.dropotron.level-0
