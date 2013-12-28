@@ -1228,11 +1228,11 @@
 		background: rgba(255,255,255,0.975);
 		padding: 1em 1.25em 1em 1.25em;
 		line-height: 1em;
-		height: 50px;
+		max-height: 50px;
 		text-align: left;
 		border-radius: 0.5em;
 		box-shadow: 0 0.15em 0.25em 0 rgba(0,0,0,0.25);
-		width:250px;padding: 
+		width:250px; 
 	}
 	
 		.dropotron li
