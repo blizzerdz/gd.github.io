@@ -915,6 +915,10 @@ h2.style{
 .nav5 li a i.likedin{
 	background-position:-387px -98px;
 }
+.nav5 li a i.mail {
+background-position:-229px -242px;
+	
+}
 /*search*/
 .search1{
 	margin-top: 4%;
