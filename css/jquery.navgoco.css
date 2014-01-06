@@ -17,7 +17,7 @@
 }
 
 .nav > li li {
-	margin: 2px 0;
+	margin: 14px 0 0 0;
 }
 
 .nav a {
@@ -36,9 +36,9 @@
 	height: 0;
 	display: inline-block;
 	vertical-align: top;
-	border-top: 4px solid #000;
-	border-right: 4px solid transparent;
-	border-left: 4px solid transparent;
+	border-top: 0px solid #000;
+	border-right: 0px solid transparent;
+	border-left: 0px solid transparent;
 	content: "";
     margin-top: 8px;
 	margin-left: 2px;
@@ -50,9 +50,9 @@
 
 .nav li.open > a > .caret {
 	border-top: none;
-	border-bottom: 4px solid #000;
-	border-right: 4px solid transparent;
-	border-left: 4px solid transparent;
+	border-bottom: 0px solid #000;
+	border-right: 0px solid transparent;
+	border-left: 0px solid transparent;
 }
 
 .nav li.open > a:hover > .caret {
