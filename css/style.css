@@ -1806,6 +1806,7 @@ a.mail:hover {
 	.resp-tab-item{
 		width:24.8%;
 	}
+	.sidebar_left_grid{display:none;}
 }
 @media only screen and (max-width: 640px){
 	.wrap{
@@ -1840,6 +1841,7 @@ a.mail:hover {
 	.stories a{
 		padding:3.5em 10%;
 	}
+	.sidebar_left_grid{display:none;}
 }
 @media only screen and (max-width: 480px) {
 	.wrap{
@@ -1885,6 +1887,7 @@ a.mail:hover {
 	.span_1_of_3_nav{
 		margin-top:0;
 	}
+	.sidebar_left_grid{display:none;}
 }
 @media only screen and (max-width: 320px) {
 	.wrap{
@@ -1923,6 +1926,7 @@ a.mail:hover {
 		font-size:0.8em;
 		padding:10px 14px;
 	}
+	.sidebar_left_grid{display:none;}
 }
 
 
