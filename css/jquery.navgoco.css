@@ -65,7 +65,7 @@
 }
 
 .nav > li.active > a  {
-	background-color: #4D90FE;
+	background-color: transparent;
 }
 
 .nav li a {
