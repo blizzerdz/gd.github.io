@@ -1773,6 +1773,7 @@ a.mail:hover {
 	.video-player iframe{
 		height:265px;
 	}
+	.sidebar_left_grid{display:none;}
 }
 @media only screen and (max-width: 800px) {
 	.wrap{
