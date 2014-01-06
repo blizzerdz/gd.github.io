@@ -985,7 +985,7 @@ h2.style{
 }
 .video{
 	padding:8px;
-	background:#ea6060;
+	
 }
 .grid_left1 i.video-icon{
 	background-position:-13px -288px;
@@ -1080,6 +1080,7 @@ h2.style{
 .sidebar_right{
 	width: 65.3%;
 	float:left;
+	background:#fff;
 }
 .sidebar_left_grid {
 	background: #1F3045;
