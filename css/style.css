@@ -40,8 +40,8 @@ body {
 }
 /*start header*/
 .header{
-width:100%;margin-top:0px;z-index:999;positoin:absolute;border-top:1px solid #ccc;border-bottom:1px solid #ccc;
-	background: #ffffff;
+background: #ffffff;width:100%;margin-top:0px;z-index:999;positoin:relative;border-top:1px solid #ccc;border-bottom:1px solid #ccc;
+	
 
 }
 .menu{
