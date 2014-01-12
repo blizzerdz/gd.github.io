@@ -92,7 +92,7 @@ nav a {
 }
 .nav ul{width:250px;padding: 0px 15px;}
 .nav li{float: left;width: 110px;background: none !important;}
-.nav li a{padding:3px 0px !important;float:left;}
+.nav li a{padding:3px 0px !important;float:left;color:#777;}
 nav img{
 	padding:20px 10px 12px 10px;
 }
