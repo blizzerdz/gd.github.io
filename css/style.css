@@ -52,7 +52,6 @@ background: #ffffff;width:100%;margin-top:0px;poaition:absolute;z-index:999;  bo
 .menu1{
 	display:inline-block;
 	float:left;
-	margin-top:-28px;
 }
 /* Clearfix */
 .clearfix:before,
@@ -67,32 +66,19 @@ background: #ffffff;width:100%;margin-top:0px;poaition:absolute;z-index:999;  bo
     *zoom: 1;
 }
 /* Basic Styles */
-nav {
-	width: 100%;
-	font-size: 1em;
-}
-nav ul {
-	
-	position: absolute;
-	top:4em;
-	width: 250px;
-background:#fff;
-padding: 0px 15px;
-}
-nav li {
-	display: block;
-}
-nav a {
-	color: #fff;
-	display: block;
-	width:100%;
-	text-indent: 10px;
-	text-align: left;
-	text-decoration: none;
-}
-.nav ul{width:250px;padding: 0px 15px;}
+.nav {width:250px;padding: 0px 15px;}
 .nav li{float: left;width: 110px;background: none !important;}
 .nav li a{padding:3px 0px !important;float:left;color:#777;}
+nav ul {
+	width: 100%;
+	position: absolute;
+	top:4em;
+	padding: 0;
+	margin: 0 auto;
+	display: none;
+	background: #56CCC8;
+}
+
 nav img{
 	padding:20px 10px 12px 10px;
 }
