@@ -79,11 +79,20 @@ nav ul {
 background:#fff;
 padding: 0px 15px;
 }
-.nav li{float: left;
-width: 110px;
-background: none !important;}
-.nav li a{color:#000;adding: 3px 0px !important;
-float: left;}
+nav li {
+	display: block;
+}
+nav a {
+	color: #fff;
+	display: block;
+	width:100%;
+	text-indent: 10px;
+	text-align: left;
+	text-decoration: none;
+}
+.nav ul{width:250px;padding: 0px 15px;}
+.nav li{float: left;width: 110px;background: none !important;}
+.nav li a{padding:3px 0px !important;float:left;}
 nav img{
 	padding:20px 10px 12px 10px;
 }
