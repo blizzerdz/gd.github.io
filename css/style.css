@@ -47,7 +47,6 @@ background: #ffffff;width:100%;margin-top:0px;poaition:absolute;z-index:999;  bo
 .menu{
 	float:left;
 	margin-left:2em;
-	margin-top:-28px;
 }
 .menu1{
 	display:inline-block;
@@ -66,8 +65,10 @@ background: #ffffff;width:100%;margin-top:0px;poaition:absolute;z-index:999;  bo
     *zoom: 1;
 }
 /* Basic Styles */
-.nav {width:250px;padding: 0px 15px;}
-
+nav {
+	width: 100%;
+	font-size: 1em;
+}
 nav ul {
 	width: 100%;
 	position: absolute;
@@ -77,8 +78,17 @@ nav ul {
 	display: none;
 	background: #56CCC8;
 }
-.nav li{float: left;width: 110px;background: none !important;}
-.nav a{padding:3px 0px !important;float:left;color:#777;}
+nav li {
+	display: block;
+}
+nav a {
+	color: #fff;
+	display: block;
+	width:100%;
+	text-indent: 10px;
+	text-align: left;
+	text-decoration: none;
+}
 nav img{
 	padding:20px 10px 12px 10px;
 }
