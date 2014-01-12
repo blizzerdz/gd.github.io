@@ -40,7 +40,7 @@ body {
 }
 /*start header*/
 .header{
-background: #ffffff;width:100%;margin-top:0px;poaition:absolute;z-index:999;  border-top:1px solid #ccc;border-bottom:1px solid #ccc;
+background: #ffffff;width:100%;margin-top:0px;position:absolute;z-index:999;  border-top:1px solid #ccc;border-bottom:1px solid #ccc;
 	
 
 }
@@ -51,6 +51,7 @@ background: #ffffff;width:100%;margin-top:0px;poaition:absolute;z-index:999;  bo
 .menu1{
 	display:inline-block;
 	float:left;
+	margin-top:-50px;
 }
 /* Clearfix */
 .clearfix:before,
@@ -315,7 +316,6 @@ nav a#pull {
 .header_top_right{
 	float:right;
 	position:relative;
-	margin-top:-28px;
 }
 /* start social-icons  */
 .social-icons {
