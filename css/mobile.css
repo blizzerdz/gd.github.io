@@ -1,0 +1,200 @@
+/*——————————————————
+MOBILE & SMART PHONES – ANY ORIENTATION – MAX WIDTH
+——————————————————–*/
+
+/*–Low-end mobiles –*/
+@media screen and (max-device-width:767px) { }
+
+/*– HTC Desire, HTC Nexus One, HTC One SV, HTC Evo, HTC HD2, HTC Thunderbolt, LG Optimus 2X, LG LU1400, LG Optimus 3D, Lumia 710, Samsung Epic (D700), Samsung Nexus S SAMOLED, Samsung Nexus S LCD, Galaxy S Plus (I9001), Galaxy S II (I9100), –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:800px) {}
+
+/*– HTC Sensation, HTC Evo HD, HTC Sensation XE–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:960px) {}
+
+/*– LG Optimus LTE, LG Spectrum (VS920), LG Optimus 4X HD-*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.7) and (max-device-width:1280px) {}
+
+/*– iPhone 4, 4S, iPod Touch 4Gen–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:960px) {}
+
+/*– iPhone 5, iPod Touch 5Gen–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1136px) {}
+
+/*– HTC OneX, LG Nexus 4, Blackberry Z10, Samsung Galaxy Nexus, HTC Evo LTE, Galaxy S III (I9300), Samsung Galaxy Note, Samsung Galaxy Note II, Sony Xperia S, -*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1280px) {}
+
+/*– HTCOne, Sony Xperia, HTC Droid DNA, Samsung Galaxy S4, Sony Xperia Z */
+@media only screen and (-webkit-min-device-pixel-ratio: 3) and (max-device-width:1920px) { }
+
+/*– Lumia */
+@media only screen and (-webkit-min-device-pixel-ratio: 5:3) and (max-device-width:1280px) { }
+
+/*——————————————-
+TABLETS
+——————————————–*/
+
+/*– iPad 1Gen/2Gen iPad Mini, Kindle Fire –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1) and (max-device-width:1024px) {}
+
+/*– Nexus 7 (2012)–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.325) and (max-device-width:1280px) {}
+
+/*– Kindle Fire 7″ –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:1280px) {}
+
+/*– Kindle Fire HD 8.9″–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:1920px) {}
+
+/*– Nexus 7, Samsung Galaxy Note III –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1920px) {
+  #header_wrapper{height:20px;width:100%}
+  #content_wrapper {width:80%;}
+  .ads1{display:none;}
+#content {width:20%;}
+  .posts>li {width:90%;margin-left:5%}
+
+}
+
+/*– iPad 3Gen/4Gen, –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:2048px) {}
+
+/*————————–
+TABLETS/ DESKTOP
+————————–*/
+
+/*– Macbook Pro 13″, Samsung Nexus 10 –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:2560px) {}
+
+/*– Macbook Pro 15″ –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:2880px) {}
+
+/*——————————————————
+MOBILE & SMART PHONES – LANDSCAPE
+——————————————————–*/
+
+/
+/*–Low-end mobiles –*/
+@media screen and (max-device-width:767px) and (orientation : landscape) { }
+
+/*– HTC Desire, HTC Nexus One, HTC One SV, HTV Evo, HTC HD2, HTC Thunderbolt, LG Optimus 2X, LG LU1400, LG Optimus 3D, Lumia 710, Samsung Epic (D700), Samsung Nexus S SAMOLED, Samsung Nexus S LCD, Galaxy S Plus (I9001), Galaxy S II (I9100), –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:800px) and (orientation : landscape){}
+
+/*– HTC Sensation, HTC Evo HD, HTC Sensation XE–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:960px) and (orientation : landscape) {}
+
+/*– LG Optimus LTE, LG Spectrum (VS920), LG Optimus 4X HD-*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.7) and (max-device-width:1280px) and (orientation : landscape) {}
+
+/*– iPhone 4, 4S, iPod Touch 4Gen–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:960px) and (orientation : landscape) {}
+
+/*– iPhone 5, iPod Touch 5Gen–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1136px) and (orientation : landscape) {}
+
+/*– HTC OneX, LG Nexus 4, Blackberry Z10, Samsung Galaxy Nexus, HTC Evo LTE, Galaxy S III (I9300), Samsung Galaxy Note, Samsung Galaxy Note II, Sony Xperia S, -*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1280px) and (orientation : landscape) {}
+
+/*– HTCOne, Sony Xperia, HTC Droid DNA, Samsung Galaxy S4, Sony Xperia Z */
+@media only screen and (-webkit-min-device-pixel-ratio: 3) and (max-device-width:1920px) and (orientation : landscape) { }
+
+/*– Lumia */
+@media only screen and (-webkit-min-device-pixel-ratio: 5:3) and (max-device-width:1280px) and (orientation : landscape) { }
+
+/*——————————————-
+TABLETS
+——————————————–*/
+
+/*– iPad 1Gen/2Gen iPad Mini, Kindle Fire –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1) and (max-device-width:1024px) and (orientation : landscape) {}
+
+/*– Nexus 7 (2012)–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.325) and (max-device-width:1280px) and (orientation : landscape) {}
+
+/*– Kindle Fire 7″ –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:1280px) and (orientation : landscape) {}
+
+/*– Kindle Fire HD 8.9″–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:1920px) and (orientation : landscape) {}
+
+/*– Nexus 7 (2013), Samsung Galaxy Note III –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1920px) and (orientation : landscape) {}
+
+/*– iPad 3Gen/4Gen, –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:2048px) and (orientation : landscape) {}
+
+/*————————–
+TABLETS/ DESKTOP
+————————–*/
+
+/*– Macbook Pro 13″, Samsung Nexus 10 –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:2560px) and (orientation : landscape) {}
+
+/*– Macbook Pro 15″ –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:2880px) {}
+
+/*——————————————————
+MOBILE & SMART PHONES – PORTRAIT
+——————————————————–*/
+
+/
+/*–Low-end mobiles –*/
+@media screen and (max-device-width:767px) and (orientation : landscape) { }
+
+/*– HTC Desire, HTC Nexus One, HTC One SV, HTC Evo, HTC HD2, HTC Thunderbolt, LG Optimus 2X, LG LU1400, LG Optimus 3D, Lumia 710, Samsung Epic (D700), Samsung Nexus S SAMOLED, Samsung Nexus S LCD, Galaxy S Plus (I9001), Galaxy S II (I9100), –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:480px) and (orientation : portrait){}
+
+/*– HTC Sensation, HTC Evo HD, HTC Sensation XE–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:540px) and (orientation : portrait) {}
+
+/*– LG Optimus LTE, LG Spectrum (VS920), LG Optimus 4X HD-*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.7) and (max-device-width:720px) and (orientation : portrait) {}
+
+/*– iPhone 4, 4S, 5, iPod Touch 4Gen, 5Gen–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:640px) and (orientation : portrait) {}
+
+/*– Samsung Galaxy Nexus, Galaxy S III (I9300), Samsung Galaxy Note II, , Sony Xperia S, -*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:720px) and (orientation : portrait) {}
+
+/*– LG Nexus 4, Blackberry Z10, Samsung Galaxy Note, Samsung Galaxy Note II -*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:768px) and (orientation : portrait) {}
+
+/*– HTC OneX, HTC Evo LTE, LG Nexus 4, Blackberry Z10 -*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:780px) and (orientation : portrait) {}
+
+/*– Samsung Galaxy Note -*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:800px) and (orientation : portrait) {}
+
+/*– HTCOne, HTC Droid DNA, Samsung Galaxy S4, Sony Xperia Z */
+@media only screen and (-webkit-min-device-pixel-ratio: 3) and (max-device-width:1080px) and (orientation : portrait) { }
+
+/*– Lumia */
+@media only screen and (-webkit-min-device-pixel-ratio: 5:3) and (max-device-width:768px) and (orientation : portrait) { }
+
+/*——————————————-
+TABLETS
+——————————————–*/
+
+/*– Kindle Fire –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1) and (max-device-width:600px) and (orientation : portrait) {}
+
+/*– iPad 1Gen/2Gen iPad Mini, –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1) and (max-device-width:768px) and (orientation : portrait) {}
+
+/*– Kindle Fire 7″ –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:800px) and (orientation : portrait) {}
+
+/*– Kindle Fire HD 8.9″–*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width:1200px) and (orientation : portrait) {}
+
+/*– Samsung Galaxy Note III */
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1080px) and (orientation : portrait) { }
+
+/*– Nexus 7 –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1280px) and (orientation : portrait) {}
+
+/*– iPad 3Gen/4Gen, –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1536px) and (orientation : portrait) {}
+
+/*–Samsung Nexus 10 –*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1600px) and (orientation : portrait) {}
+
