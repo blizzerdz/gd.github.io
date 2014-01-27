@@ -48,10 +48,10 @@ TABLETS
 /*– Nexus 7, Samsung Galaxy Note III –*/
 @media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1920px) {
   #header_wrapper{height:20px;width:100%}
- #content_wrapper{min-width:50%;max-width:100%;}
+ #content_wrapper{min-width:80%;max-width:100%;}
   .ads1{display:none;}
-#content {margin-top:200px;width:80%;}
-  .posts>li {width:50%;margin-left:10%}
+#content {margin-top:200px;width:90%;}
+  .posts>li {width:90%;margin-left:10%}
 
 }
 
