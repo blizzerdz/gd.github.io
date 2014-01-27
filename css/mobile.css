@@ -15,10 +15,24 @@ MOBILE & SMART PHONES – ANY ORIENTATION – MAX WIDTH
 @media only screen and (-webkit-min-device-pixel-ratio: 1.7) and (max-device-width:1280px) {}
 
 /*– iPhone 4, 4S, iPod Touch 4Gen–*/
-@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:960px) {}
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:960px) {
+ #header_wrapper{height:20px;width:100%}
+  .gnb-wrap {display:none;}
+ #content_wrapper{min-width:90%;max-width:100%;}
+  .ads1{display:none;}
+#content {margin-top:200px;width:100%;}
+  .posts>li {width:90%;margin-left:0%}
+}
 
 /*– iPhone 5, iPod Touch 5Gen–*/
-@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1136px) {}
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1136px) {
+ #header_wrapper{height:20px;width:100%}
+  .gnb-wrap {display:none;}
+ #content_wrapper{min-width:90%;max-width:100%;}
+  .ads1{display:none;}
+#content {margin-top:200px;width:100%;}
+  .posts>li {width:90%;margin-left:0%}
+}
 
 /*– HTC OneX, LG Nexus 4, Blackberry Z10, Samsung Galaxy Nexus, HTC Evo LTE, Galaxy S III (I9300), Samsung Galaxy Note, Samsung Galaxy Note II, Sony Xperia S, -*/
 @media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:1280px) {}
