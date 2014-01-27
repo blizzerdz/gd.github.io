@@ -52,7 +52,7 @@ TABLETS
  #content_wrapper{min-width:90%;max-width:100%;}
   .ads1{display:none;}
 #content {margin-top:200px;width:100%;}
-  .posts>li {width:90%;margin-left:5%}
+  .posts>li {width:90%;margin-left:0%}
 
 }
 
